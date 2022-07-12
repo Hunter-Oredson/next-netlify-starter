@@ -1,0 +1,46 @@
+[{
+    "name": "Lion Energy",
+    "position": "Full Stack Web Developer",
+    "personal": false,
+    "start": "07/22",
+    "end": "Present",
+    "link": "https://lionenergy.com/",
+    "description": "Created their interal website for Technicians, Admins, and Customers to use with their solar products. Helped start the project and have it see its version 1 release, along with improving it from there."
+},
+{
+    "name": "Lendio",
+    "position": "Software Engineer - Intern",
+    "personal": false,
+    "start": "01/22",
+    "end": "04/22",
+    "link": "https://www.lendio.com/",
+    "description": "Worked with three different teams over four months for our external application website, internal sales website, and the data storage. I lead the whole lifecycle of two projects including, planning, time estimation, releasing, and post-mortem."
+},
+{
+    "name": "AISFORHIRE",
+    "position": "Web Developer",
+    "personal": false,
+    "start": "09/20",
+    "end": "Present",
+    "link": "https://www.aisforhire.com/",
+    "description": "I helped build the front and back end for an AI that would detect logical fallacies by typing in your own sentence or running a Chrome extension on any website."
+},
+{
+    "name": "AMP Smart",
+    "position": "Back-Office Supervisor/Internal Developer",
+    "personal": false,
+    "start": "08/18",
+    "end": "07/22",
+    "link": "https://ampsmart.com/",
+    "description": "Started off in customer service and was promoted to supervisor. Used my programming skills to build personal Chrome Extensions to speed up productivity and grow my skills. Then built in internal web application for our QA team and more!"
+},
+{
+    "name": "Blue Fights",
+    "position": "Mobile App Developer",
+    "personal": true,
+    "start": "Personal Project",
+    "end": "Personal Project",
+    "link": "https://play.google.com/store/apps/details?id=com.Blue_Fights&hl=en_US&gl=US",
+    "description": "Built a self-wellness app to help you create and complete your own challenges. This was built using Flutter and is currently available for free on the Google Play Store."
+}
+]
