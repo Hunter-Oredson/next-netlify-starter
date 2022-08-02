@@ -1,7 +1,3 @@
 export default function Testimonials() {
-    return (
-        <>
-        
-        </>
-    )
+  return <div></div>;
 }

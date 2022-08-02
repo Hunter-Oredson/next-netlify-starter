@@ -11,6 +11,16 @@ p {
   font-size: 18pt;
 }
 
+a {
+  color: black;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+a:hover {
+  color:darkblue;
+}
+
 * {
   box-sizing: border-box;
 }
@@ -38,6 +48,12 @@ code {
   align-items: center;
 }
 
+.eContainer {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
 .profile {
   height: 250px;
   border-radius: 100%;
@@ -51,4 +67,14 @@ code {
 
 .title {
   text-transform: uppercase;
+  margin-bottom: 2vw;
+  text-decoration: underline 2px solid #202020;
+}
+
+.flex {
+  display: flex;
+}
+
+.between {
+  justify-content: space-between;
 }

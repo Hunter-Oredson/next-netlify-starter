@@ -1,6 +1,6 @@
 export default function Intro() {
   return (
-    <>
+    <div>
       <p>
         Hard working, objective driven and skilled Full Stack Web Developer with
         strong technical knowledge, great influencial leadership skills and
@@ -9,6 +9,6 @@ export default function Intro() {
         PostgreSQL, MySQL, NodeJS, Docker, React Native, Flutter, HTML,
         CSS/SCSS, Javascript, and C based languages.
       </p>
-    </>
+    </div>
   );
 }
