@@ -1,7 +1,8 @@
-import Head from 'next/head'
-import Header from '@components/Header'
-import Footer from '@components/Footer'
-import Body from '@components/Body'
+import Head from "next/head";
+import Header from "@components/Header";
+import Footer from "@components/Footer";
+import Body from "@components/Body";
+import TopNav from "@components/TopNav";
 
 export default function Home() {
   return (
@@ -11,6 +12,8 @@ export default function Home() {
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
+      <TopNav />
+
       <main>
         <Header title="About Me" />
         <Body />
@@ -18,5 +21,5 @@ export default function Home() {
 
       <Footer />
     </div>
-  )
+  );
 }

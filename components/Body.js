@@ -6,6 +6,7 @@ import Testimonials from "@components/Testimonials";
 export default function Body() {
   return (
     <body className={styles.body}>
+      <div className="divider" />
       <Intro />
       <Experience title="Experience" />
       <Testimonials />
