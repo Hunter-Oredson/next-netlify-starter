@@ -43,8 +43,7 @@
     "name": "Blue Fights",
     "position": "Mobile App Developer",
     "personal": true,
-    "start": "07/21",
-    "end": "Personal Project",
+    "released": "07/21",
     "link": "https://play.google.com/store/apps/details?id=com.Blue_Fights&hl=en_US&gl=US",
     "description": "Built a self-wellness app to help you create and complete your own challenges. This was built using Flutter and is currently available for free on the Google Play Store.",
     "image": "/bluefights.png"

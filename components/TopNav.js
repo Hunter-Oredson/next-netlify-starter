@@ -10,7 +10,9 @@ export default function TopNav() {
       <a href="#projects" className="navselect">
         PROJECTS
       </a>
-      <a className="navselect">CONTACT</a>
+      <a href="#contact" className="navselect">
+        CONTACT
+      </a>
     </div>
   );
 }

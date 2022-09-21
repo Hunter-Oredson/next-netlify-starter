@@ -70,18 +70,8 @@ code {
 }
 
 .webImage {
-  height: 200px;
+  height: 300px;
   margin: 0 20px;
-}
-@media screen and (max-width: 640px) {
-  .profile {
-    height: 150px;
-    border-radius: 100%;
-  }
-
-  .webImage {
-    display: none;
-  }
 }
 
 .title {
@@ -124,4 +114,32 @@ code {
 .divider {
   border-top: 1px solid #eaeaea;
   width: 100%;
+}
+
+.testimony {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.testimony_pic {
+  border-radius: 50%;
+  margin: 0 15px;
+  width: 75px;
+  height: 75px;
+}
+
+@media screen and (max-width: 640px) {
+  .profile {
+    height: 150px;
+    border-radius: 100%;
+  }
+
+  .webImage {
+    display: none;
+  }
+
+  .topnav {
+    display: none;
+  }
 }
