@@ -7,7 +7,7 @@ export default function Intro() {
         knows how to put customers first. Having skills with many familiar
         languages such as ReactJS, NextJS, Angular, VueJS, PHP, Laravel,
         PostgreSQL, MySQL, NodeJS, Docker, React Native, Flutter, HTML,
-        CSS/SCSS, Javascript, and C based languages.
+        CSS/SCSS, Javascript, Typescript, and C based languages.
       </p>
     </div>
   );

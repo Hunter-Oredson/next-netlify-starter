@@ -1,3 +1,4 @@
+import Image from "next/image";
 import { useEffect, useState } from "react";
 import experience from "../public/experience";
 
@@ -24,20 +25,35 @@ export default function Experience({ title }) {
       </h1>
       {exp.map((e, index) => (
         <div>
-          <h2 key={e.name + index}>
-            <a href={e.link}>{e.name}</a>
-          </h2>
-          <div className="eContainer">
+          <div
+            className={
+              index % 2 === 1 ? "eTopContainer" : "eTopContainerReverse"
+            }
+          >
+            <a href={e.link}>
+              <img src={e.image} className={"webImage"} />
+            </a>
             <div>
-              <div>{e.position}</div>
-              <div>
-                {e.start} - {e.end}
+              <h2 key={e.name + index}>
+                <a href={e.link}>{e.name}</a>
+              </h2>
+              <div className="eContainer">
+                <div>
+                  <div>{e.position}</div>
+                  <div>
+                    {e.start} - {e.end}
+                  </div>
+                </div>
               </div>
             </div>
-            <div>
-              <p>{e.description}</p>
-            </div>
           </div>
+          <div>
+            <p>{e.description}</p>
+          </div>
+          <div
+            className="divider"
+            style={{ marginTop: 75, marginBottom: 75 }}
+          />
         </div>
       ))}
       {personal.map((e, index) => (
@@ -49,6 +65,9 @@ export default function Experience({ title }) {
             <h2 key={e.name + index}>
               <a href={e.link}>{e.name}</a>
             </h2>
+            <a href={e.link}>
+              <img src={e.image} height={50} />
+            </a>
             <div className="eContainer">
               <div>
                 <p>{e.description}</p>

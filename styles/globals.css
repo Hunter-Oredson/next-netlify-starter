@@ -54,14 +54,33 @@ code {
   align-items: center;
 }
 
+.eTopContainer {
+  display: flex;
+  justify-content: center;
+}
+.eTopContainerReverse {
+  display: flex;
+  flex-direction: row-reverse;
+  justify-content: center;
+}
+
 .profile {
   height: 250px;
   border-radius: 100%;
+}
+
+.webImage {
+  height: 200px;
+  margin: 0 20px;
 }
 @media screen and (max-width: 640px) {
   .profile {
     height: 150px;
     border-radius: 100%;
+  }
+
+  .webImage {
+    display: none;
   }
 }
 

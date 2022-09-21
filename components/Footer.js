@@ -5,7 +5,9 @@ export default function Footer() {
   return (
     <footer className={styles.footer}>
       <div className={styles.container}>
-        <div>Made by Hunter Oredson using Next.js</div>
+        <div>
+          Made with <img src="/netliheart.svg" height={15} /> using Next.js
+        </div>
       </div>
       <div className={styles.copyright}>
         © {year} Hunter Oredson, All Rights Reserved
