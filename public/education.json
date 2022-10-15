@@ -1,0 +1,11 @@
+[
+  {
+    "place": "Utah Valley University",
+    "degree": "Bachelor's in Software Engineering",
+    "start": "January 2018",
+    "end": "December 2021",
+    "description": "I started my software developer journey during my first year of college. At the time, I thought coding would not appeal to me, but after taking my first coding class in Python I was hooked! From there I ventured more into object oriented languages with C++ and C, and learned the fundamentals of algorithms, database storage, design theory and more! Along with programming classes, I focused with a minor in business management classes since creating my own product or company interested me so much. After going to school for 12 semesters straight (including summer classes), I graduated as an honors student with an overall GPA of 3.9 and earning the achievement of Summa Cum Laude.",
+    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a1/Utah_Valley_University_seal.svg/1200px-Utah_Valley_University_seal.svg.png",
+    "link": "https://www.uvu.edu/"
+  }
+]

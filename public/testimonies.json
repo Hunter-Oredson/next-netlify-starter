@@ -4,13 +4,20 @@
     "title": "Senior Software Engineer at Lendio",
     "message": "I worked closely with Hunter for a few weeks when he started his internship at Lendio, then regularly as he got a taste of other teams. Within two days, he had a complex local environment set up (Docker with various service containers) and was knocking out real Jira tasks for our team. I was very impressed! Hunter will be a solid junior who will develop quickly. He can approach a variety of technologies with the judgement of someone who has spent years learning software engineering (UVU software engineering bachelor + real paid projects) concepts rather than weeks with the latest fad framework at a bootcamp. He starts early, stays focused, and doesn't have that 'I played video games all night but this Rock Star will make up for it' look that so many devs have. He's easy to coach/mentor/teach, takes responsibility, and will progress quickly. As one who's been in the industry 20+ years, I can wholeheartedly endorse him! If he's working for you, you're lucky!",
     "link": "https://www.linkedin.com/in/jtippetts?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3B1E2MYaCdTD2tAm5vROtDHA%3D%3D",
-    "image": "/profile1.png"
+    "image": "https://media-exp1.licdn.com/dms/image/C5603AQE-MFS9cFcpYQ/profile-displayphoto-shrink_100_100/0/1603935074236?e=1671062400&v=beta&t=Roz01IOzDPwQZzf16BmhkjYYaz3sZbhbCH_CUzjwmzc"
   },
   {
     "name": "Will Dunn",
     "title": "Software Engineering Manager at Lendio",
     "message": "I managed Hunter for a portion of his internship when he worked on Lendio's internal systems team. Hunter excels in cross-functional collaboration. He has a knack for switching into technical jargon when deep-diving code with his developer peers, and can approach things at a higher level when working with product managers (PM) and UX designers. His proof came through meetings with his team and stakeholders on a lead distribution feature he worked on. Due to the nature of using a library within a framework that had a different dark launch flow than what most of our code base used, he had to discuss coding practicing to developers and switch gears to discussing the business effects that might differ to both PM and UX personnel. He was instrumentals in laying the groundwork for our mobile accessibility features within one of our applications. The app had just been converted from one front-end framework to another and did not come with any mobile accessibility features out of the box. Hunter researched different approaches and made thoughtful recommendations, which ultimately impacted the direction we took with the project. These achievements revealed Hunter's hard work effort and his ability to translate technical feasibility surrounding so many levels in the organization. Companies that take Hunter into their employ will be in good hands.",
     "link": "https://www.linkedin.com/in/will-dunn-8a8557140?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BkBB4%2FJ5bRkent6nviuWCnQ%3D%3D",
-    "image": "/profile2.png"
+    "image": "https://media-exp1.licdn.com/dms/image/C5603AQEB4RqAxqt0Bw/profile-displayphoto-shrink_100_100/0/1604088520347?e=1671062400&v=beta&t=dROvug3lLpdgO7nq-tGUyinKSlvp2XPdvKiAuxfIr54"
+  },
+  {
+    "name": "Rich Kingsford",
+    "title": "Software Product Owner",
+    "message": "I worked with Hunter to develop a mobile app and an AI that detects logical fallacies (Vallas). The mobile app was wonderfully built but the AI was a lot cooler. Hunter's deliverables were excellent on both projects. Quick turnarounds. Reliable, functional, and readable code. Hunter is also well organized and a strong communicator.",
+    "link": "https://www.linkedin.com/in/richkingsford?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3B%2BDJqF6uoQxqBfYPJ1TGUng%3D%3D",
+    "image": "https://media-exp1.licdn.com/dms/image/C4D03AQGe_gXQYbqtFw/profile-displayphoto-shrink_100_100/0/1516305579002?e=1671062400&v=beta&t=wFdmQLzyjgAap5xTK2lfjXLhc1QZ-vnukYRa2islRXw"
   }
 ]

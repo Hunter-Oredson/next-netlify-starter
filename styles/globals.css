@@ -129,6 +129,12 @@ code {
   height: 75px;
 }
 
+.smallTitle {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+}
+
 @media screen and (max-width: 640px) {
   .profile {
     height: 150px;
