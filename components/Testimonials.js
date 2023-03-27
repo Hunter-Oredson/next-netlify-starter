@@ -9,9 +9,6 @@ export default function Testimonials() {
       {testimonies.map((t) => (
         <>
           <div className="testimony">
-            <a href={t.link}>
-              <img src={t.image} className="testimony_pic" />
-            </a>
             <div style={{ textAlign: "left " }}>
               <h3 style={{ marginBottom: 0 }}>
                 <a href={t.link}>{t.name}</a>
