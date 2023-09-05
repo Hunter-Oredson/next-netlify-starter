@@ -55,11 +55,11 @@ export default function Experience({ title }) {
           />
         </div>
       ))}
+      <h1 className="title" id="projects">
+        personal projects
+      </h1>
       {personal.map((e, index) => (
         <>
-          <h1 className="title" id="projects">
-            personal projects
-          </h1>
           <div>
             <h2 key={e.name + index}>
               <a href={e.link}>{e.name}</a>

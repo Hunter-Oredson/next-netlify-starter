@@ -1,12 +1,21 @@
 [
   {
+    "name": "WhiteboardGIFs.com",
+    "position": "Lead Developer and CTO",
+    "personal": true,
+    "released": "04/23",
+    "link": "https://whiteboardgifs.com",
+    "description": "Started and co-founded whiteboardgifs. Built an AI integrated website to help generate limitless possibilites to build engaging and educational GIFs!",
+    "image": "/whiteboardgifs.png"
+  },
+  {
     "name": "Lion Energy",
     "position": "Full Stack Web Developer",
     "personal": false,
     "start": "07/22",
     "end": "Present",
     "link": "https://lionenergy.com/",
-    "description": "Created their interal website for Technicians, Admins, and Customers to use with their solar products. Helped start the project and have it see its version 1 release, along with improving it from there.",
+    "description": "Created their interal website for Technicians, Admins, and Customers to use with their Battery Management Systems. Started from the ground up, specialized in BLE communications over web, and continued to grow and help improve the website.",
     "image": "/Lion Energy Website.png"
   },
   {
@@ -16,7 +25,7 @@
     "start": "01/22",
     "end": "04/22",
     "link": "https://www.lendio.com/",
-    "description": "Worked with three different teams over four months for our external application website, internal sales website, and the data storage. I lead the whole lifecycle of two projects including, planning, time estimation, releasing, and post-mortem.",
+    "description": "Worked with three different teams over four months for our external application website, internal sales website, and data storage. I lead the whole lifecycle of two projects including, planning, time estimation, releasing, and post-mortems.",
     "image": "/Lendio Website.png"
   },
   {
